@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Controladoras.dll
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Controladoras.pdb
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Persistencia.dll
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\bin\Debug\Persistencia.pdb
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\obj\Debug\Controladoras.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\obj\Debug\Controladoras.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\obj\Debug\Controladoras.csproj.CopyComplete
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\obj\Debug\Controladoras.dll
+C:\Users\user\Desktop\Taller Mecanico\Controladoras\obj\Debug\Controladoras.pdb
